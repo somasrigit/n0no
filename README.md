@@ -8,17 +8,20 @@
 </div>
 
 
-
-
-![68747470733a2f2f7777772e74656368736f6c7574696f6e6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f776562736974652d646576656c6f702e676966](https://github.com/user-attachments/assets/0114216e-f1f4-41e4-937c-fc913454735c)
-
+  <div>
+    <img src="https://github.com/user-attachments/assets/0114216e-f1f4-41e4-937c-fc913454735c" align=right height="300" width="300" alt="Developer GIF" />
+  </div>
+</div>
 
 
 ###
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=somasrigit&style=flat-square&color=0e75b6" alt="Profile Views" />
+</p>
 
 <div align="left">
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
@@ -46,7 +49,7 @@
 
 <br clear="both">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0e0e52,711c91,ea00d9&height=180&section=footer&text=Thanks%20for%20visiting!%20👋&fontSize=35&fontColor=ffffff&fontAlign=70&desc=See%20you%20around!%20🚀&descSize=20&descAlign=70" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0e0e52,711c91,ea00d9&height=180&section=footer&text=Thanks%20for%20visiting!%20👋&fontSize=35&fontColor=ffffff&fontAlign=70&desc=See%20you%20around!%20🚀&descSize=30&descAlign=70" />
 
 
 
