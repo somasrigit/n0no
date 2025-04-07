@@ -7,8 +7,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
+
+
+![68747470733a2f2f7777772e74656368736f6c7574696f6e6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f776562736974652d646576656c6f702e676966](https://github.com/user-attachments/assets/0114216e-f1f4-41e4-937c-fc913454735c)
 
 
 
